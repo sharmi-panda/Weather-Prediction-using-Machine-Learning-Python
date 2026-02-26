@@ -31,7 +31,6 @@ The notebook includes:
 - **Regression Line**: The "Best Fit" line plotted against actual values.
 
 ## Run the notebook:
-```bash
     jupyter notebook weather.ipynb
   
 ## Install dependencies:
